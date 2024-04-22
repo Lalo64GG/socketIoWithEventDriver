@@ -5,7 +5,7 @@ dotenv.config();
 
 const config = {
     protocol: "amqp",
-    hostname: "54.210.113.84",
+    hostname: "3.228.161.219",
     port: 5672,
     username: "guest",
     password: "guest",
